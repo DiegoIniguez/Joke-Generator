@@ -64,3 +64,17 @@ console.log(jokeCreate(number)) //First response log
 console.log(`— Who's that?`);
 getRandom();
 console.log(`— ${jokePunchline(number2)} ${jokeEnd(number)}`); //Second & third response log
+console.log(`%c
+_______                                       
+\  ___ \`'.            /|                 .--. 
+ ' |--.\  \           ||                 |__| 
+ | |    \  '          ||                 .--. 
+ | |     |  '         ||  __        __   |  | 
+ | |     |  | _    _  ||/'__ '.  .:--.'. |  | 
+ | |     ' .'| '  / | |:/\`  '. '/ |   \ ||  | 
+ | |___.' /'.' | .' | ||     | |\`" __ | ||  | 
+/_______.'/ /  | /  | ||\    / ' .'.''| ||__| 
+\_______|/ |   \`'.  | |/\'..' / / /   | |_    
+           '   .'|  '/'  \`'-'\`  \ \._,\ '/    
+            \`-'  \`--'            \`--'  \`" 
+`, `font-family: monospace`);
