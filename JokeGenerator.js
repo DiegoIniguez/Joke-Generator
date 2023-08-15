@@ -58,9 +58,9 @@ function jokeEnd(x) {
 console.log(`— Knock knock!`);
 console.log(`— Who's there?`);
 
-getRandom();
+getRandom(); 
 
-console.log(jokeCreate(number))
+console.log(jokeCreate(number)) //First response log
 console.log(`— Who's that?`);
 getRandom();
-console.log(`— ${jokePunchline(number2)} ${jokeEnd(number)}`);
+console.log(`— ${jokePunchline(number2)} ${jokeEnd(number)}`); //Second & third response log
